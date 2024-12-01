@@ -8,7 +8,7 @@ import { useState } from "react"
 
 const Navbar = () => {
     // Renaming the state hook for clarity
-    const [isNavOpen, setIsNavOpen] = useState(false)
+    const [isNavOpen, setIsNavOpen] = useState<boolean>(false)
 
     const toggleNav = () => {
         setIsNavOpen(!isNavOpen)
