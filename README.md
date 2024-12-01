@@ -7,7 +7,7 @@
 
   Fully responsive personal Travel website, <br />Responsive for all devices, built using NextJS, Tailwind CSS, and TypeScript.
 
-  <a href="https://github.com/psparwez/travel-ui-ux"><strong>➥ Live Demo</strong></a>
+  <a href="https://travel-ui-ux-eta.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
   <br />
-      <img src="![travel-image](https://github.com/user-attachments/assets/e5093070-4d1f-4df3-8be8-ebe428b479c4)" alt="Project Banner">
+      <img src="https://github.com/user-attachments/assets/31860509-fad8-4dd6-93ea-6081bd1e20dd" , alt="Project Banner">
   <br />
   <br />
   <br />
@@ -27,7 +27,8 @@
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
-
+<br />
+<br />
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -35,7 +36,6 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-6. 🔗 [Links](#livedemo)
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -117,8 +117,6 @@ npm run dev
 If you have any questions, encounter issues, or would like to collaborate on this project, feel free to reach out!
 
 
-If you have any questions, encounter issues, or would like to collaborate, feel free to reach out!
-
 [![Contact](https://img.shields.io/badge/Contact-175fd4?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/psparwez/psparwez/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
@@ -128,3 +126,10 @@ If you have any questions, encounter issues, or would like to collaborate, feel 
 If you encounter any bugs or have suggestions, please open an issue on the [GitHub Issues page](https://github.com/psparwez/travel-ui-ux/issues).
 
 I look forward to hearing from you and collaborating!
+<br />
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+<br/>
